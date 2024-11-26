@@ -1,0 +1,120 @@
+.Heade {
+  background: rgba(11, 20, 57, 1);
+  float: right;
+  height: 100px;
+  color: aliceblue;
+  display: flex;
+  overflow-x: auto;
+  width: 100%;
+  position: relative;
+}
+.Heade .Perfil {
+  width: 80%;
+  /* text-align: center; */
+  /* float: center; */
+  line-height: 40px;
+  /* background: red; */
+  display: flex;
+  align-items: center;
+}
+
+/* .Heade .Perfil li {
+  background: rgba(26, 61, 99, 1);
+  border-radius: 30px;
+  position: relative;
+  height: 45px;
+  width: 100%;
+  margin: 15px 1px;
+  list-style: none;
+  line-height: 5px;
+}
+ */
+.Heade .Perfil .imagenP {
+  height: 50px;
+  min-width: 50px;
+  border-radius: 12px;
+  line-height: 50px;
+  text-align: center;
+  /* background: white; */
+  overflow: hidden;
+  margin-right: 15px;
+}
+
+.Heade .Perfil .NombreRol .Nombre {
+  opacity: 1;
+  pointer-events: auto;
+  font-size: 20px;
+  font-weight: 200;
+  margin-right: 30px;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.Heade .Perfil .NombreRol .Rol {
+  opacity: 1;
+  pointer-events: auto;
+  font-size: 20px;
+  font-weight: 500;
+  margin-right: 30px;
+}
+
+.Heade .Perfil .NombreRol .Opciones {
+  display: flex;
+}
+
+.Heade .Spac {
+  width: 40%;
+  line-height: 50px;
+  float: center;
+  text-align: center;
+}
+
+.Heade .Correo {
+  width: 40%;
+  float: center;
+  text-align: center;
+  line-height: 50px;
+  margin-left: 600px;
+}
+
+h2 {
+  font-size: 19px;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 50px;
+  margin-top: 5px;
+  color: #fff;
+}
+
+.Heade .Perfil a {
+  margin-top: 10px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  transition: all 0.4s ease;
+  border-radius: 12px;
+  white-space: nowrap;
+  float: right;
+  margin-right: 50px;
+}
+
+.Heade a i {
+  height: 50px;
+  min-width: 50px;
+  line-height: 50px;
+  text-align: center;
+  margin-left: 50px;
+}
+
+.Heade .links_names {
+  font-size: 19px;
+  font-weight: 400;
+  margin-left: 20px;
+  line-height: 30px;
+}
+.H {
+  display: flex;
+  width: 100%;
+}

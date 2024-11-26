@@ -1,0 +1,12 @@
+.contenedor .texto {
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.contenedor {
+  margin-left: 250px;
+  background-color: rgba(11, 20, 57, 1);
+  border-radius: 15px;
+  font-size: 35px;
+}

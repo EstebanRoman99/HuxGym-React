@@ -1,0 +1,12 @@
+.Barra_opciones {
+  background: #fff;
+  height: 70px;
+  display: flex;
+  width: 100%;
+  position: relative;
+  align-items: center;
+}
+
+.Barra_opciones .btn {
+  margin-left: 100px;
+}

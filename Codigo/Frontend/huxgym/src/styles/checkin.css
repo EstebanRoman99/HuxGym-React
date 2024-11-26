@@ -1,0 +1,52 @@
+.check {
+  position: absolute;
+  /* width: 50%; */
+  background: rgb(241, 239, 239);
+  float: right;
+  border-radius: 15px;
+  margin-right: 50px;
+  margin-left: 1110px;
+  width: 350px;
+  text-align: center;
+  font-weight: bolder;
+}
+.chec {
+  position: relative;
+  width: 50%;
+  background: white;
+  float: center;
+  border-radius: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 300px;
+  padding: 30px;
+}
+
+.che {
+  position: relative;
+  color: white;
+  padding: 5px;
+  padding-top: 5px;
+  /* width: 50%; */
+  background: rgba(11, 20, 57, 1);
+  float: right;
+  border-radius: 15px;
+  margin-top: 250px;
+  margin-right: 10px;
+  margin-left: 10px;
+  width: 350px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.che .form-control {
+  height: 20px;
+}
+
+.Grafic {
+  position: absolute;
+  background: rgb(241, 239, 239);
+  float: left;
+  margin-top: 120px;
+  width: 50%;
+  height: 60%;
+}

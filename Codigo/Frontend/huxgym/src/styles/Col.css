@@ -1,0 +1,95 @@
+.form-groupp{
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
+    
+    -webkit-column-gap: 2rem; /* Chrome, Safari, Opera */
+    -moz-column-gap: 2rem; /* Firefox */
+    column-gap: 2rem;
+
+}
+body {
+    background-color: white;
+  }
+  
+  .table-responsive {
+    margin-right: 30px;
+    overflow-y: scroll;
+  }
+  .modal-backdrop {
+    background-color: black;
+  }
+  
+  .modal-content {
+    background: rgba(11, 20, 57, 1);
+    color: #fff;
+    border-radius: 15px;
+  }
+  .input {
+    background: #fff;
+    width: 95%;
+  }
+  
+  .Busqueda {
+    margin-right: 30px;
+    float: center;
+    display: flex;
+    overflow-x: auto;
+  }
+  .Busqueda .search-query {
+    width: 40%;
+    margin-left: 10px;
+    border-radius: 15px;
+  }
+  .Busqueda .btn-success {
+    width: 50%;
+    background: rgba(11, 20, 57, 1);
+    float: center;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 20px;
+    width: 300px;
+  }
+  
+  .Busqueda .btn-success i {
+    margin-right: 20px;
+  }
+  
+  .Busqueda .esp {
+    width: 50%;
+    float: center;
+    border-radius: 15px;
+    margin-right: 50px;
+  }
+  
+  .Busqueda .add-on {
+    background: rgba(11, 20, 57, 1);
+    border: #fff;
+    border-radius: 40px;
+    width: 100px;
+  }
+  
+  .Busqueda .textField {
+    width: 300px;
+  }
+  
+  .Modal .ModalBody {
+    box-sizing: content-box;
+  }
+  
+  .modal-content .pass-body input {
+    align-items: center;
+    margin-right: 60px;
+    width: 100%;
+  }
+  .modal-content .actualizar-pass .btn {
+    align-items: center;
+    margin-right: 95px;
+  }
+  .selectblood{
+    width: 160px;
+    height: 35px;
+  }
